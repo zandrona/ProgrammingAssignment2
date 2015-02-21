@@ -5,9 +5,6 @@
 # 4. get the value of the mean
 
 
-
-## Write a short comment describing this function
-
 makeCacheMatrix <- function(x = matrix()) {
 i <- NULL
   set <- function(y) {
